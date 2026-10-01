@@ -2,7 +2,7 @@
 <img src="./apps/greenproof/public/assets/branding/trinity_cinematic_final.png" width="100%" alt="GreenProof Banner">
 
 # GreenProof Platform
-**Sovereign ESG Compliance Oracle & Institutional RWA Attestation**
+**Research platform for ESG evidence and RWA attestation**
 
 [![Live Demo](https://img.shields.io/badge/🟢_Live_Demo-Vercel-00FF88?style=for-the-badge)](https://greenproof.vercel.app)
 [![CI Build](https://img.shields.io/badge/CI%2FCD-Passing-00FF88?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/symbeon-labs/greenproof-platform/actions)
@@ -15,9 +15,9 @@
 ## 🏛️ Ecosystem Vision
 
 ### **"Prove ESG ≥ 80% without revealing private data. Bridge it to any chain in 1 click."**
-> *“Designed to eliminate greenwashing at the infrastructure level.”*
+> *Research objective: make selected ESG claims more traceable and verifiable.*
 
-**GreenProof** is a high-fidelity institutional platform for transforming real-world signals into cryptographically verifiable attestations. It replaces manual compliance auditing with a deterministic, privacy-preserving verification pipeline:
+**GreenProof** is an experimental reference platform for transforming selected real-world signals into cryptographically verifiable attestations. It explores a privacy-preserving verification pipeline; it does not by itself replace compliance auditing or establish universal ESG truth:
 
 ```
 Real-World Signals → Trinity Consensus → ZK Proof (Groth16) → On-Chain Certificate → Cross-Chain RWA
@@ -25,7 +25,7 @@ Real-World Signals → Trinity Consensus → ZK Proof (Groth16) → On-Chain Cer
 
 ---
 
-## 💡 The Solution
+## 💡 Research direction
 
 Current ESG (Environmental, Social, and Governance) reporting is plagued by **Greenwashing** and **Data Privacy** concerns. GreenProof solves this by combining:
 
